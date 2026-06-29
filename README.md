@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=620&lines=Hi,%20I'm%20QingBeryl;Full%20Stack%20Python%20Developer;Flask%20Web%20Engineer;Self-hosted%20Server%20Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=620&lines=Hi,%20I'm%20QingBeryl;Full%20Stack%20Python%20Developer;Flask%20Web%20Engineer" />
 </div>
 
 <p align="center">
@@ -16,7 +16,6 @@
 </a>
 <a href="mailto:yourmail@xxx.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-</a>
 </p>
 
 ---
@@ -35,20 +34,7 @@
 ---
 
 # 不想学习 🤮🤮
----
-<div align="center">
-<img width="47%" src="https://stats.songlairui.top/api?username=QingBeryl&show_icons=true&theme=radical&hide_border=true" />
-<img width="47%" src="https://stats.songlairui.top/api/top-langs/?username=QingBeryl&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=QingBeryl&theme=radical&no-frame=true" width="90%" />
-</div>
-
-### 📈 Monthly Contribution Activity
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=QingBeryl&theme=radical&hide_border=true" width="96%" />
-</div>
+暂时无法加载统计图表，日常专注Flask网站开发与服务器运维
 
 ---
 
