@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hi,%20I'm%20QingBeryl;
+  Full%20Stack%20Python%20Developer;
+  Flask%20Web%20Builder;
+  Open%20Source%20Enthusiast" />
+</div>
 
-<!--
-**QingBeryl/QingBeryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=QingBeryl&label=Profile%20Views&color=0e75b6&style=flat" alt="访问统计" />
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=QingBeryl&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingYu-Nook&layout=compact&theme=radical&hide_border=true" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=QingYu-Nook&theme=radical&no-frame=true" width="90%" />
+</div>
