@@ -37,8 +37,8 @@
 # 不想学习 🤮🤮
 ---
 <div align="center">
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=QingBeryl&show_icons=true&theme=radical&hide_border=true" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingBeryl&layout=compact&theme=radical&hide_border=true" />
+<img width="47%" src="https://stats.songlairui.top/api?username=QingBeryl&show_icons=true&theme=radical&hide_border=true" />
+<img width="47%" src="https://stats.songlairui.top/api/top-langs/?username=QingBeryl&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
