@@ -1,6 +1,6 @@
 # Hi there 👋
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=620&lines=Hi,%20I'm%20QingBeryl;Full%20Stack%20Python%20Developer;Flask%20Web%20Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=620&lines=Hi,%20I'm%20QingBeryl;Full%20Stack%20Python%20Developer;Flask%20Web%20Engineer;Self-hosted%20Server%20Builder" />
 </div>
 
 <p align="center">
@@ -16,6 +16,7 @@
 </a>
 <a href="mailto:yourmail@xxx.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
+</a>
 </p>
 
 ---
@@ -34,7 +35,12 @@
 ---
 
 # 不想学习 🤮🤮
-暂时无法加载统计图表，日常专注Flask网站开发与服务器运维
+---
+
+### 📈 Monthly Contribution Activity
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=QingBeryl&theme=radical&hide_border=true" width="96%" />
+</div>
 
 ---
 
