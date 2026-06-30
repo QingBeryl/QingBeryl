@@ -34,7 +34,7 @@
 
 ---
 
-# 不想学习 🤮🤮
+# 不想学习啊 🤮🤮
 ---
 
 ### 📈 Monthly Contribution Activity
